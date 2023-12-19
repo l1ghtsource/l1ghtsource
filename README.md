@@ -4,6 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mathematics, Machine Learning, Data Analysis
 --------------------------------------------
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 Currently: mathematician, beginner machine learning engineer, data analyst, designer, frontend developer, sound designer and sound engineer.
 
 *   🌍  I'm based in Moscow
