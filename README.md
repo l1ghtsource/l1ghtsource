@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+    <h1>
+    Mathematics, Machine Learning, Data Analysis
+  </h1>
 </div>
-
-Mathematics, Machine Learning, Data Analysis
---------------------------------------------
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZvNHM5enFmMDRzbjFubmZydzM3d2ZidG5qYTBudGFta2FrNDU2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="600" height="300"/>
