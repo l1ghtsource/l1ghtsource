@@ -13,7 +13,7 @@
   <p></p>
 </div>
 
-<im>Currently</im>: mathematician, beginner machine learning engineer, data analyst, designer, frontend developer, sound designer and sound engineer.
+<b>Currently</b>: mathematician, beginner machine learning engineer, data analyst, designer, frontend developer, sound designer and sound engineer.
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [lightsourceecruosthgil@gmail.com](mailto:lightsourceecruosthgil@gmail.com)
