@@ -1,17 +1,3 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
-</head>
-
-<body>
 <div id="header" align="center">
   <h1>
     Hey there
@@ -50,5 +36,3 @@
 <a href="http://www.github.com/l1ghtsource"><img src="https://github-readme-streak-stats.herokuapp.com/?user=l1ghtsource&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/l1ghtsource" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1ghtsource&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-</body>
