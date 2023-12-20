@@ -9,6 +9,7 @@
 </div>
 
 <div align="center">
+  <h2>object-fit: cover</h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNnamFoYWwwa2p5Z2VqaXR4bmVwZ2k0dGxmMHhyaWJlcGF1bzNzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SnVZO1N0Wo6u4/giphy.gif" width="600" height="300"/>
   <p></p>
 </div>
