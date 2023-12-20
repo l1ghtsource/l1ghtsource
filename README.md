@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>
     Hey there
-    <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="50px"/>
   </h1>
   <h2>
     Mathematics, Machine Learning, Data Analysis, Design
