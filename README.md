@@ -17,7 +17,6 @@
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [lightsourceecruosthgil@gmail.com](mailto:lightsourceecruosthgil@gmail.com)
-*   🧠  I'm learning JUCE Framework
 
 ### Skills 
 
