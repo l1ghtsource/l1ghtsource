@@ -20,17 +20,18 @@
 
 ### Skills 
 
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffffff) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%23000000.svg?style=for-the-badge&logo=scipy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23000000.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Python](https://img.shields.io/badge/python-%230a0e12?style=for-the-badge&logo=python) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=orange) 
+![NumPy](https://img.shields.io/badge/numpy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
+![Scipy](https://img.shields.io/badge/SciPy-%23000000.svg?style=for-the-badge&logo=scipy&logoColor=%white%27) 
+![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib) 
+![PyTorch](https://img.shields.io/badge/pytorch-%230a0e12?style=for-the-badge&logo=pytorch) 
+![C++](https://img.shields.io/badge/c++-%23000000?style=for-the-badge&logo=c%2B%2B) 
+![CSS3](https://img.shields.io/badge/css-%230a0e12?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/html-%230a0e12?style=for-the-badge&logo=html5)
+![LaTeX](https://img.shields.io/badge/latex-%23000000.svg?style=for-the-badge&logo=latex&logoColor=green) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=blue)
 
 ### Socials
 
