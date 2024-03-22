@@ -13,6 +13,10 @@
   <p></p>
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l1ghtsource" alt="l1ghtsource" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <i>Currently</i>: mathematician, beginner machine learning engineer, data analyst and sound engineer.
 
 *   🌍  I'm based in Moscow
