@@ -40,8 +40,6 @@
 <a href="https://www.youtube.com/chanel/UCUT6M4HZMA5osgXNf2_SiRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l1ghtsource" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/lightsource" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lightsource" height="30" width="40" /></a>
 </p>
-                  
-
 
 ### Badges
 
@@ -51,4 +49,8 @@
 
 <a href="https://github.com/l1ghtsource" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1ghtsource&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1ghtsource&show_icons=true&locale=en&layout=compact" alt="l1ghtsource" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l1ghtsource&show_icons=true&locale=en" alt="l1ghtsource" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1ghtsource&" alt="l1ghtsource" /></p>
