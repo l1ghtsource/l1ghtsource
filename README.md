@@ -51,6 +51,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1ghtsource&show_icons=true&locale=en&layout=compact" alt="l1ghtsource" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l1ghtsource&show_icons=true&locale=en" alt="l1ghtsource" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1ghtsource&" alt="l1ghtsource" /></p>
