@@ -29,6 +29,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib)
 ![OpenCV](https://img.shields.io/badge/opencv-%230a0e12?style=for-the-badge&logo=opencv)
+![YOLO](https://img.shields.io/badge/yolo-%230a0e12?style=for-the-badge&logo=yolo)
 ![C++](https://img.shields.io/badge/c++-%23000000?style=for-the-badge&logo=c%2B%2B&logoColor=blue) 
 ![CSS3](https://img.shields.io/badge/css-%230a0e12?style=for-the-badge&logo=css3&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/html-%230a0e12?style=for-the-badge&logo=html5)
