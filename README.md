@@ -46,25 +46,25 @@
 <a href="https://stackoverflow.com/users/23734403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lightsource" height="30" width="40" /></a>
 </p>
 
-### Hackatons
-
-- ![Gagarin Hack](https://github.com/l1ghtsource/gagarin-hack-document-reader) - 2 место [CV]
-  - Задача: классификация документов по фото, извлечение из них основной атрибутики/информации, распознаваение номера листа
-  - Работал с OpenCV, YOLO, EasyOCR
-
-- ![EESTech Hack](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) - 2 место [Classic ML]
-  - Задача: прогнозирование состояния узлов трактора на основе данных телеметрии с CAN-шины (поломка/аномалия/норма)
-  - Работал с catboost, sklearn, streamlit
-  
-- ![IT Purple Hack](https://github.com/l1ghtsource/it-purple-hack-sber-case) - 4 место [Classic ML]
-  - Задача: прогнозирование оттока банковского клиента
-  - Работал с catboost, sklearn, imblearn, optuna
-  
-- ![Tender Hack](https://github.com/l1ghtsource/tender-hack-product-card-generator/) - 6 место [NLP]
-  - Задача: создание функционала генерации названий и характеристик CTE в универсальном виде
-  - Работал с transformers, torch, catboost
-
 ### My GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1ghtsource&show_icons=true&locale=en&layout=compact" alt="l1ghtsource" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1ghtsource&" alt="l1ghtsource" /></p>
+
+### Hackatons
+
+* ![Gagarin Hack](https://github.com/l1ghtsource/gagarin-hack-document-reader) - 2 место [CV]
+  - Задача: классификация документов по фото, извлечение из них основной атрибутики/информации, распознаваение номера листа
+  - Стэк: OpenCV, YOLO, EasyOCR
+
+* ![EESTech Hack](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) - 2 место [Classic ML]
+  - Задача: прогнозирование состояния узлов трактора на основе данных телеметрии с CAN-шины (поломка/аномалия/норма)
+  - Стэк: catboost, sklearn, streamlit
+  
+* ![IT Purple Hack](https://github.com/l1ghtsource/it-purple-hack-sber-case) - 4 место [Classic ML]
+  - Задача: прогнозирование оттока банковского клиента
+  - Стэк: catboost, sklearn, imblearn, optuna
+  
+* ![Tender Hack](https://github.com/l1ghtsource/tender-hack-product-card-generator/) - 6 место [NLP]
+  - Задача: создание функционала генерации названий и характеристик CTE в универсальном виде
+  - Стэк: transformers, torch, catboost
