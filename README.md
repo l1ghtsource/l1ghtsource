@@ -53,18 +53,18 @@
 
 ### Hackatons
 
-- ![Gagarin Hack](https://github.com/l1ghtsource/gagarin-hack-document-reader) - 2 место [CV]
+- __Gagarin Hack__ - ![2 место](https://github.com/l1ghtsource/gagarin-hack-document-reader) [CV]
   - __Задача__: классификация документов по фото, извлечение из них основной атрибутики/информации, распознаваение номера листа
   - __Стэк__: OpenCV, YOLO, EasyOCR
 
-- ![EESTech Hack](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) - 2 место [Classic ML]
+- __EESTech Hack__ - ![2 место](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) [Classic ML]
   - __Задача__: прогнозирование состояния узлов трактора на основе данных телеметрии с CAN-шины (поломка/аномалия/норма)
   - __Стэк__: catboost, sklearn, streamlit
   
-- ![IT Purple Hack](https://github.com/l1ghtsource/it-purple-hack-sber-case) - 4 место [Classic ML]
+- __IT Purple Hack__ - ![4 место](https://github.com/l1ghtsource/it-purple-hack-sber-case) [Classic ML]
   - __Задача__: прогнозирование оттока банковского клиента
   - __Стэк__: catboost, sklearn, imblearn, optuna
   
-- ![Tender Hack](https://github.com/l1ghtsource/tender-hack-product-card-generator/) - 6 место [NLP]
+- __Tender Hack__ - ![6 место](https://github.com/l1ghtsource/tender-hack-product-card-generator) [NLP]
   - __Задача__: создание функционала генерации названий и характеристик CTE в универсальном виде
   - __Стэк__: transformers, torch, catboost
