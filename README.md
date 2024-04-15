@@ -48,27 +48,21 @@
 
 ### Hackatons
 
-- Gagarin Hack - 2 место [CV]
+- ![Gagarin Hack](https://github.com/l1ghtsource/gagarin-hack-document-reader) - 2 место [CV]
   - Задача: классификация документов по фото, извлечение из них основной атрибутики/информации, распознаваение номера листа
   - Работал с OpenCV, YOLO, EasyOCR
-  - ![Репозиторий](https://github.com/l1ghtsource/gagarin-hack-document-reader)
 
-- EESTech Hack - 2 место [Classic ML]
+- ![EESTech Hack](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) - 2 место [Classic ML]
   - Задача: прогнозирование состояния узлов трактора на основе данных телеметрии с CAN-шины (поломка/аномалия/норма)
   - Работал с catboost, sklearn, streamlit
-  - ![Репозиторий](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting)
- 
   
-- IT Purple Hack - 4 место [Classic ML]
+- ![IT Purple Hack](https://github.com/l1ghtsource/it-purple-hack-sber-case) - 4 место [Classic ML]
   - Задача: прогнозирование оттока банковского клиента
   - Работал с catboost, sklearn, imblearn, optuna
-  - ![Репозиторий](https://github.com/l1ghtsource/it-purple-hack-sber-case)
- 
   
-- Tender Hack - 6 место [NLP]
+- ![Tender Hack](https://github.com/l1ghtsource/tender-hack-product-card-generator/) - 6 место [NLP]
   - Задача: создание функционала генерации названий и характеристик CTE в универсальном виде
   - Работал с transformers, torch, catboost
-  - ![Репозиторий](https://github.com/l1ghtsource/tender-hack-product-card-generator/)
 
 ### My GitHub Stats
 
