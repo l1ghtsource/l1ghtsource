@@ -16,7 +16,7 @@
 <i>Currently</i>: mathematician, beginner machine learning engineer, data analyst and sound engineer.
 
 *   🌍  I'm based in Moscow
-*   📄  Curriculum vitae: ![тык](https://drive.google.com/file/d/16KV1W8Dg7KymmYvtGOORczd7vadNPAP8)
+*   📄  Curriculum vitae: [тык](https://drive.google.com/file/d/16KV1W8Dg7KymmYvtGOORczd7vadNPAP8)
 *   ✉️  You can contact me at [lightsourceecruosthgil@gmail.com](mailto:lightsourceecruosthgil@gmail.com)
 
 ### Skills 
@@ -39,19 +39,19 @@
 
 ### Hackatons
 
-- __Gagarin Hack__ - ![2 место](https://github.com/l1ghtsource/gagarin-hack-document-reader) [CV]
+- __Gagarin Hack__ - [2 место](https://github.com/l1ghtsource/gagarin-hack-document-reader) [CV]
   - __Задача__: классификация документов по фото, извлечение из них основной атрибутики/информации, распознаваение номера листа
   - __Стэк__: OpenCV, YOLO, EasyOCR
 
-- __EESTech Hack__ - ![2 место](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) [Classic ML]
+- __EESTech Hack__ - [2 место](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) [Classic ML]
   - __Задача__: прогнозирование состояния узлов трактора на основе данных телеметрии с CAN-шины (поломка/аномалия/норма)
   - __Стэк__: catboost, sklearn, streamlit
   
-- __IT Purple Hack__ - ![4 место](https://github.com/l1ghtsource/it-purple-hack-sber-case) [Classic ML]
+- __IT Purple Hack__ - [4 место](https://github.com/l1ghtsource/it-purple-hack-sber-case) [Classic ML]
   - __Задача__: прогнозирование оттока банковского клиента
   - __Стэк__: catboost, sklearn, imblearn, optuna
   
-- __Tender Hack__ - ![6 место](https://github.com/l1ghtsource/tender-hack-product-card-generator) [NLP]
+- __Tender Hack__ - [6 место](https://github.com/l1ghtsource/tender-hack-product-card-generator) [NLP]
   - __Задача__: создание функционала генерации названий и характеристик CTE в универсальном виде
   - __Стэк__: transformers, torch, catboost
  
