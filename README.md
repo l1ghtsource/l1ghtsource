@@ -16,7 +16,7 @@
 <i>Currently</i>: mathematician, beginner machine learning engineer, data analyst and sound engineer.
 
 *   🌍  I'm based in Moscow
-*   Resume: ![CV](https://drive.google.com/file/d/16KV1W8Dg7KymmYvtGOORczd7vadNPAP8/view?usp=sharing)
+*   📄  Curriculum vitae: ![тык](https://drive.google.com/file/d/16KV1W8Dg7KymmYvtGOORczd7vadNPAP8/view?usp=sharing)
 *   ✉️  You can contact me at [lightsourceecruosthgil@gmail.com](mailto:lightsourceecruosthgil@gmail.com)
 
 ### Skills 
@@ -37,21 +37,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23000000.svg?style=for-the-badge&logo=latex&logoColor=green) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=blue)
 
-### Socials
-
-<p align="left">
-<a href="https://kaggle.com/l1ghtsource" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="l1ghtsource" height="30" width="40" /></a>
-<a href="https://vk.com/ecruosthgil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="l1ghtsource" height="30" width="40" /></a>
-<a href="https://medium.com/@lightsource" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lightsource" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCUT6M4HZMA5osgXNf2_SiRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l1ghtsource" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23734403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lightsource" height="30" width="40" /></a>
-</p>
-
-### My GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1ghtsource&show_icons=true&locale=en&layout=compact" alt="l1ghtsource" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1ghtsource&" alt="l1ghtsource" /></p>
-
 ### Hackatons
 
 - __Gagarin Hack__ - ![2 место](https://github.com/l1ghtsource/gagarin-hack-document-reader) [CV]
@@ -69,3 +54,18 @@
 - __Tender Hack__ - ![6 место](https://github.com/l1ghtsource/tender-hack-product-card-generator) [NLP]
   - __Задача__: создание функционала генерации названий и характеристик CTE в универсальном виде
   - __Стэк__: transformers, torch, catboost
+ 
+### Socials
+
+<p align="left">
+<a href="https://kaggle.com/l1ghtsource" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="l1ghtsource" height="30" width="40" /></a>
+<a href="https://vk.com/ecruosthgil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="l1ghtsource" height="30" width="40" /></a>
+<a href="https://medium.com/@lightsource" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lightsource" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUT6M4HZMA5osgXNf2_SiRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l1ghtsource" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23734403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lightsource" height="30" width="40" /></a>
+</p>
+
+### My GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1ghtsource&show_icons=true&locale=en&layout=compact" alt="l1ghtsource" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1ghtsource&" alt="l1ghtsource" /></p>
