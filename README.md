@@ -53,18 +53,18 @@
 
 ### Hackatons
 
-* ![Gagarin Hack](https://github.com/l1ghtsource/gagarin-hack-document-reader) - 2 место [CV]
-  - Задача: классификация документов по фото, извлечение из них основной атрибутики/информации, распознаваение номера листа
-  - Стэк: OpenCV, YOLO, EasyOCR
+- ![Gagarin Hack](https://github.com/l1ghtsource/gagarin-hack-document-reader) - 2 место [CV]
+  - __Задача__: классификация документов по фото, извлечение из них основной атрибутики/информации, распознаваение номера листа
+  - __Стэк__: OpenCV, YOLO, EasyOCR
 
-* ![EESTech Hack](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) - 2 место [Classic ML]
-  - Задача: прогнозирование состояния узлов трактора на основе данных телеметрии с CAN-шины (поломка/аномалия/норма)
-  - Стэк: catboost, sklearn, streamlit
+- ![EESTech Hack](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) - 2 место [Classic ML]
+  - __Задача__: прогнозирование состояния узлов трактора на основе данных телеметрии с CAN-шины (поломка/аномалия/норма)
+  - __Стэк__: catboost, sklearn, streamlit
   
-* ![IT Purple Hack](https://github.com/l1ghtsource/it-purple-hack-sber-case) - 4 место [Classic ML]
-  - Задача: прогнозирование оттока банковского клиента
-  - Стэк: catboost, sklearn, imblearn, optuna
+- ![IT Purple Hack](https://github.com/l1ghtsource/it-purple-hack-sber-case) - 4 место [Classic ML]
+  - __Задача__: прогнозирование оттока банковского клиента
+  - __Стэк__: catboost, sklearn, imblearn, optuna
   
-* ![Tender Hack](https://github.com/l1ghtsource/tender-hack-product-card-generator/) - 6 место [NLP]
-  - Задача: создание функционала генерации названий и характеристик CTE в универсальном виде
-  - Стэк: transformers, torch, catboost
+- ![Tender Hack](https://github.com/l1ghtsource/tender-hack-product-card-generator/) - 6 место [NLP]
+  - __Задача__: создание функционала генерации названий и характеристик CTE в универсальном виде
+  - __Стэк__: transformers, torch, catboost
