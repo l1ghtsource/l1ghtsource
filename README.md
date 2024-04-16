@@ -39,21 +39,21 @@
 
 ### Hackatons
 
-- __Gagarin Hack__ - [2 место](https://github.com/l1ghtsource/gagarin-hack-document-reader) [CV]
-  - __Задача__: классификация документов по фото, извлечение из них основной атрибутики/информации, распознаваение номера листа
-  - __Стэк__: OpenCV, YOLO, EasyOCR
+- __Gagarin Hack__ - [2nd place](https://github.com/l1ghtsource/gagarin-hack-document-reader) [CV]
+  - __Task__: classification of documents based on photos, extraction of basic attributes/information from them, sheet number recognition
+  - __Stack__: OpenCV, YOLO, EasyOCR
 
-- __EESTech Hack__ - [2 место](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) [Classic ML]
-  - __Задача__: прогнозирование состояния узлов трактора на основе данных телеметрии с CAN-шины (поломка/аномалия/норма)
-  - __Стэк__: catboost, sklearn, streamlit
+- __EESTech Hack__ - [2nd place](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) [Classic ML]
+  - __Task__: predicting the state of tractor components based on telemetry data from the CAN bus (breakdown/anomaly/normal)
+  - __Stack__: catboost, sklearn, streamlit
   
-- __IT Purple Hack__ - [4 место](https://github.com/l1ghtsource/it-purple-hack-sber-case) [Classic ML]
-  - __Задача__: прогнозирование оттока банковского клиента
-  - __Стэк__: catboost, sklearn, imblearn, optuna
+- __IT Purple Hack__ - [4th place](https://github.com/l1ghtsource/it-purple-hack-sber-case) [Classic ML]
+  - __Task__: predicting banking client churn
+  - __Stack__: catboost, sklearn, imblearn, optuna
   
-- __Tender Hack__ - [6 место](https://github.com/l1ghtsource/tender-hack-product-card-generator) [NLP]
-  - __Задача__: создание функционала генерации названий и характеристик CTE в универсальном виде
-  - __Стэк__: transformers, torch, catboost
+- __Tender Hack__ - [6th place](https://github.com/l1ghtsource/tender-hack-product-card-generator) [NLP]
+  - __Task__: creation of functionality for generating CTE names and characteristics in a universal form
+  - __Stack__: transformers, torch, catboost
  
 ### Socials
 
