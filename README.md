@@ -16,7 +16,7 @@
 <i>Currently</i>: mathematician, beginner machine learning engineer, data analyst and sound engineer.
 
 *   🌍  I'm based in Moscow
-*   📄  Curriculum vitae: [тык](https://drive.google.com/file/d/16KV1W8Dg7KymmYvtGOORczd7vadNPAP8)
+*   📄  Curriculum vitae: [poke](https://drive.google.com/file/d/16KV1W8Dg7KymmYvtGOORczd7vadNPAP8)
 *   ✉️  You can contact me at [lightsourceecruosthgil@gmail.com](mailto:lightsourceecruosthgil@gmail.com)
 
 ### Skills 
