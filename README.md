@@ -47,7 +47,7 @@
   - __Task__: predicting the state of tractor components based on telemetry data from the CAN bus (breakdown/anomaly/normal)
   - __Stack__: catboost, sklearn, streamlit
 
-- __Digital Breakthrough (UFD)__ - [2nd place](https://github.com/l1ghtsource/mediawise-creative-filter) [Speech & Video]
+- __Digital Breakthrough (UFD)__ - [3nd place](https://github.com/l1ghtsource/mediawise-creative-filter) [Speech & Video]
   - __Task__: develop a model that, based on advertising creative, predicts which segment it belongs to
   - __Stack__: whisper, bert, x-clip, llava, catboost, fastapi
   
