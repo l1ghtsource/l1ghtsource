@@ -41,11 +41,15 @@
 
 - __Gagarin Hack__ - [2nd place](https://github.com/l1ghtsource/gagarin-hack-document-reader) [CV]
   - __Task__: classification of documents based on photos, extraction of basic attributes/information from them, sheet number recognition
-  - __Stack__: OpenCV, YOLO, EasyOCR
+  - __Stack__: opencv, yolo, easyocr
 
 - __EESTech Hack__ - [2nd place](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) [Classic ML]
   - __Task__: predicting the state of tractor components based on telemetry data from the CAN bus (breakdown/anomaly/normal)
   - __Stack__: catboost, sklearn, streamlit
+
+- __Digital Breakthrough (UFD)__ - [2nd place](https://github.com/l1ghtsource/mediawise-creative-filter) [Speech & Video]
+  - __Task__: develop a model that, based on advertising creative, predicts which segment it belongs to
+  - __Stack__: whisper, bert, x-clip, llava, catboost, fastapi
   
 - __IT Purple Hack__ - [4th place](https://github.com/l1ghtsource/it-purple-hack-sber-case) [Classic ML]
   - __Task__: predicting banking client churn
