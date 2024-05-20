@@ -13,7 +13,7 @@
   <p></p>
 </div>
 
-<i>Currently</i>: mathematician, beginner machine learning engineer, data analyst and sound engineer.
+<i>Currently</i>: machine learning and deep learning engineer, mathematician and sound engineer.
 
 *   🌍  I'm based in Moscow
 *   📄  Curriculum vitae: [poke](https://drive.google.com/file/d/1enNOHRni8HuXfoBt9dTJ8KsqgSfkY-7v/view?usp=sharing)
