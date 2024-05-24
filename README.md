@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhjbDJpYjVyODlzbWMzc2Fvb2dyMjl5dG8ydDg4Z2hkamhoYmswZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hi2kPofVMW70k/giphy.gif" width="30px"/>
   </h1>
   <h2>
-    Mathematics, Machine Learning, Data Analysis
+    Deep Learning, Machine Learning, Mathematics
   </h2>
 </div>
 
