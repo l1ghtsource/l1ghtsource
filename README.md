@@ -54,6 +54,10 @@
 - __IT Purple Hack__ - [4th place](https://github.com/l1ghtsource/it-purple-hack-sber-case) [Classic ML]
   - __Task__: predicting banking client churn
   - __Stack__: catboost, sklearn, imblearn, optuna
+ 
+- __RedLab Hack__ - [4-5th place](https://github.com/l1ghtsource/redlab-timeseries-anomaly-detection) [Classic ML, Timeseries]
+  - __Task__: develop a service for detecting anomalies in a time series
+  - __Stack__: orion, adtk, sklearn, prophet
   
 - __Tender Hack__ - [6th place](https://github.com/l1ghtsource/tender-hack-product-card-generator) [NLP]
   - __Task__: creation of functionality for generating CTE names and characteristics in a universal form
