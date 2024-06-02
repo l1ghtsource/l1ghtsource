@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/python-%230a0e12?style=for-the-badge&logo=python) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=orange)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23000000?style=for-the-badge&logo=pytorch)
-![transformers](https://img.shields.io/badge/transformers-%230a0e12?style=for-the-badge&logo=transformers)
+![transformers](https://img.shields.io/badge/transformers-%23000000?style=for-the-badge&logo=transformers)
 ![NumPy](https://img.shields.io/badge/numpy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 ![Scipy](https://img.shields.io/badge/SciPy-%23000000.svg?style=for-the-badge&logo=scipy&logoColor=%white%27) 
 ![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas)
