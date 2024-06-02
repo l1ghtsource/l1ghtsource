@@ -21,7 +21,7 @@
 
 ### Skills 
 
-![Python](https://img.shields.io/badge/python-%230a0e12?style=for-the-badge&logo=python) 
+![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=orange)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23000000?style=for-the-badge&logo=pytorch)
 ![transformers](https://img.shields.io/badge/transformers-%23000000?style=for-the-badge&logo=transformers)
