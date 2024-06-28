@@ -62,6 +62,14 @@
 - __Tender Hack__ - [6th place](https://github.com/l1ghtsource/tender-hack-product-card-generator) [NLP]
   - __Task__: creation of functionality for generating CTE names and characteristics in a universal form
   - __Stack__: transformers, torch, catboost
+
+- __LCT__ - [Participant](https://github.com/l1ghtsource/media-searcher) [Video, Speech, CV]
+  - __Task__: develop a service that allows you to index and search videos based on media content
+  - __Stack__: torch, whisper, clip4clip, easyocr, transformers, faiss, face_recognition
+
+- __Rucode Start__ - [Finalist](https://github.com/l1ghtsource/rucode-start-2024) [Classic ML, CV]
+- __Task__: disease prediction based on tabular data, segmentation of forests and reservoirs on satellite images, prediction of cancellation of hotel room reservations
+- __Stack__: sklearn, catboost, imblearn, autogluon, bluecast, torch, albumentations, segmentation_models
  
 ### Socials
 
