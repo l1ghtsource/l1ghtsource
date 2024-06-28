@@ -68,8 +68,8 @@
   - __Stack__: torch, whisper, clip4clip, easyocr, transformers, faiss, face_recognition
 
 - __Rucode Start__ - [Finalist](https://github.com/l1ghtsource/rucode-start-2024) [Classic ML, CV]
-- __Task__: disease prediction based on tabular data, segmentation of forests and reservoirs on satellite images, prediction of cancellation of hotel room reservations
-- __Stack__: sklearn, catboost, imblearn, autogluon, bluecast, torch, albumentations, segmentation_models
+  - __Task__: disease prediction based on tabular data, segmentation of forests and reservoirs on satellite images, prediction of cancellation of hotel room reservations
+  - __Stack__: sklearn, catboost, imblearn, autogluon, bluecast, torch, albumentations, segmentation_models
  
 ### Socials
 
