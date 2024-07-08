@@ -50,6 +50,10 @@
 - __Digital Breakthrough (UFD)__ - [3rd place](https://github.com/l1ghtsource/mediawise-creative-filter) [Speech & Video]
   - __Task__: develop a model that, based on advertising creative, predicts which segment it belongs to
   - __Stack__: whisper, bert, x-clip, llava, catboost, fastapi
+ 
+- __MIPT Hack__ - [1st place](https://github.com/l1ghtsource/mipt-hackathon) [Place Recognition, Metric Learning]
+  - __Task__: develop a method for recognizing a place on the MIPT campus for a mobile robot based on multimodal data
+  - __Stack__: torch, opr, transformers, faiss
   
 - __IT Purple Hack__ - [4th place](https://github.com/l1ghtsource/it-purple-hack-sber-case) [Classic ML]
   - __Task__: forecasting banking client churn based on anonymized tabular data
