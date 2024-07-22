@@ -38,42 +38,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=blue)
 
 ### Hackatons
-
-- __Gagarin Hack__ - [2nd place](https://github.com/l1ghtsource/gagarin-hack-document-reader) [CV]
-  - __Task__: classification of documents based on photos, extraction of basic attributes/information from them, sheet number recognition
-  - __Stack__: opencv, yolo, easyocr
-
-- __EESTech Hack__ - [2nd place](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting) [Classic ML]
-  - __Task__: predicting the state of tractor components based on telemetry data from the CAN bus (breakdown/anomaly/normal)
-  - __Stack__: catboost, sklearn, streamlit
-
-- __Digital Breakthrough (UFD)__ - [3rd place](https://github.com/l1ghtsource/mediawise-creative-filter) [Speech & Video]
-  - __Task__: develop a model that, based on advertising creative, predicts which segment it belongs to
-  - __Stack__: whisper, bert, x-clip, llava, catboost, fastapi
- 
-- __MIPT Hack__ - [1st place](https://github.com/l1ghtsource/mipt-hackathon) [Place Recognition, Metric Learning]
-  - __Task__: develop a method for recognizing a place on the MIPT campus for a mobile robot based on multimodal data
-  - __Stack__: torch, opr, transformers, faiss
-  
-- __IT Purple Hack__ - [4th place](https://github.com/l1ghtsource/it-purple-hack-sber-case) [Classic ML]
-  - __Task__: forecasting banking client churn based on anonymized tabular data
-  - __Stack__: catboost, sklearn, imblearn, optuna
- 
-- __RedLab Hack__ - [4-5th place](https://github.com/l1ghtsource/redlab-timeseries-anomaly-detection) [Classic ML, Timeseries]
-  - __Task__: develop a service for detecting anomalies in a time series
-  - __Stack__: orion, adtk, sklearn, prophet, keras, streamlit
-  
-- __Tender Hack__ - [6th place](https://github.com/l1ghtsource/tender-hack-product-card-generator) [NLP]
-  - __Task__: creation of functionality for generating CTE names and characteristics in a universal form
-  - __Stack__: transformers, torch, catboost
-
-- __LCT__ - [Participant](https://github.com/l1ghtsource/media-searcher) [Video, Speech, CV]
-  - __Task__: develop a service that allows you to index and search videos based on media content
-  - __Stack__: torch, whisper, clip4clip, easyocr, transformers, faiss, face_recognition
-
-- __Rucode Start__ - [Finalist](https://github.com/l1ghtsource/rucode-start-2024) [Classic ML, CV]
-  - __Task__: disease prediction based on tabular data, segmentation of forests and reservoirs on satellite images, prediction of cancellation of hotel room reservations
-  - __Stack__: sklearn, catboost, imblearn, autogluon, bluecast, torch, albumentations, segmentation_models
  
 | Hackathon                                                                                           | Place        | Task                                                                 | Stack                                                                                                  | Category                         |
 |-----------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------|
