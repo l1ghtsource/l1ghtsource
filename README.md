@@ -59,7 +59,7 @@
   
 ### Socials
 
-<p align="left">
+<p align="center">
 <a href="https://kaggle.com/l1ghtsource" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="l1ghtsource" height="30" width="40" /></a>
 <a href="https://vk.com/ecruosthgil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="l1ghtsource" height="30" width="40" /></a>
 <a href="https://medium.com/@lightsource" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lightsource" height="30" width="40" /></a>
