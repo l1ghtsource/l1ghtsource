@@ -84,8 +84,3 @@
 <a href="https://www.youtube.com/channel/UCUT6M4HZMA5osgXNf2_SiRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l1ghtsource" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23734403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lightsource" height="30" width="40" /></a>
 </p>
-
-### My GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1ghtsource&show_icons=true&locale=en&layout=compact" alt="l1ghtsource" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1ghtsource&" alt="l1ghtsource" /></p>
