@@ -37,8 +37,12 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23000000.svg?style=for-the-badge&logo=latex&logoColor=green) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=blue)
 
+<div align="center">
+
 ### Hackatons
- 
+
+</div> 
+
 | Hackathon                                                                                           | Place        | Task                                                                 | Stack                                                                                                  | Category                         |
 |-----------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------|
 | [**Gagarin Hack**](https://github.com/l1ghtsource/gagarin-hack-document-reader)                     | 2nd place    | Classification of documents based on photos, extraction of attributes | opencv, yolo, easyocr                                                                                   | CV                               |
