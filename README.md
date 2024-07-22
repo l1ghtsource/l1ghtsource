@@ -19,6 +19,8 @@
 *   📄  Curriculum vitae: [poke](https://drive.google.com/file/d/1qlShrrF6TRhRpw5SNmYZpiaSk5MqOrVO/view?usp=sharing)
 *   ✉️  You can contact me at [lightsourceecruosthgil@gmail.com](mailto:lightsourceecruosthgil@gmail.com)
 
+<div align="center">
+  
 ### Skills 
 
 ![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python) 
@@ -36,6 +38,8 @@
 ![HTML5](https://img.shields.io/badge/html-%23000000?style=for-the-badge&logo=html5)
 ![LaTeX](https://img.shields.io/badge/latex-%23000000.svg?style=for-the-badge&logo=latex&logoColor=green) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=blue)
+
+</div> 
 
 <div align="center">
 
