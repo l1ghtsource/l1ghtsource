@@ -54,7 +54,9 @@
 | [**Tender Hack**](https://github.com/l1ghtsource/tender-hack-product-card-generator)                | 6th place    | Generating CTE names and characteristics                              | transformers, torch, catboost                                                                           | NLP                              |
 | [**LCT**](https://github.com/l1ghtsource/media-searcher)                                            | Participant  | Index and search videos based on media content                        | torch, whisper, clip4clip, easyocr, transformers, faiss, face_recognition                               | Video, Speech, CV                |
 | [**Rucode Start**](https://github.com/l1ghtsource/rucode-start-2024)                                | Finalist     | Disease prediction, segmentation of satellite images, prediction of hotel room cancellations | sklearn, catboost, imblearn, autogluon, bluecast, torch, albumentations, segmentation_models | Classic ML, CV                    |
- 
+
+<div align="center">
+  
 ### Socials
 
 <p align="left">
@@ -64,3 +66,5 @@
 <a href="https://www.youtube.com/channel/UCUT6M4HZMA5osgXNf2_SiRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l1ghtsource" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23734403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lightsource" height="30" width="40" /></a>
 </p>
+
+</div> 
