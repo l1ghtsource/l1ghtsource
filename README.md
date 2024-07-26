@@ -16,7 +16,7 @@
 <i>Currently</i>: machine learning and deep learning engineer, mathematician and sound engineer.
 
 *   🌍  I'm based in Moscow
-*   📄  Curriculum vitae: [poke](https://drive.google.com/file/d/1iDK90qNr3FwgP39hOuVCtQvNyGFY5Vui/view?usp=sharing)
+*   📄  Curriculum vitae: [poke](https://drive.google.com/file/d/1j_jAd4KNPwyHmNaNxrykNVyPRpB0b729/view?usp=sharing)
 *   ✉️  You can contact me at [lightsourceecruosthgil@gmail.com](mailto:lightsourceecruosthgil@gmail.com)
 
 <div align="center">
