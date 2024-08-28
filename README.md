@@ -16,7 +16,7 @@
 <i>Currently</i>: machine learning and deep learning engineer, mathematician and sound engineer.
 
 *   🌍  I'm based in Moscow
-*   📄  Curriculum vitae: [poke](https://drive.google.com/file/d/1g0fD3zAetvN80D6i9EWLI5FKfPe9B-6x/view?usp=sharing)
+*   📄  Curriculum vitae: [poke](https://drive.google.com/file/d/1CbJTHYA8oqZ6C03W1xmk0yX2djQuy-e4/view?usp=sharing)
 *   ✉️  You can contact me at [lightsourceecruosthgil@gmail.com](mailto:lightsourceecruosthgil@gmail.com)
 
 <div align="center">
@@ -59,6 +59,9 @@
 | [**Tender Hack**](https://github.com/l1ghtsource/tender-hack-product-card-generator)                | 6th place    | Generating CTE names and characteristics                              | transformers, torch, catboost                                                                           | NLP                              |
 | [**LCT**](https://github.com/l1ghtsource/media-searcher)                                            | Participant  | Index and search videos based on media content                        | torch, whisper, clip4clip, easyocr, transformers, faiss, face_recognition                               | Video, Speech, CV                |
 | [**Rucode Start**](https://github.com/l1ghtsource/rucode-start-2024)                                | Finalist     | Disease prediction, segmentation of satellite images, prediction of hotel room cancellations | sklearn, catboost, imblearn, autogluon, bluecast, torch, albumentations, segmentation_models | Classic ML, CV                    |
+| [**Coderun 2 Season**]([https://github.com/l1ghtsource/rucode-start-2024](https://github.com/l1ghtsource/coderun-ml-2-season))                                | 20/647 (top 3%)     | Online trainer with a catalog of tasks for ML developers
+
+ | Algorithms, Classic ML, CV                    |
 <div align="center">
   
 ### Socials
