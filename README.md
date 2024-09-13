@@ -1,6 +1,6 @@
 ## Computer Science Student at NUST MISIS: Deep Learning & Machine Learning & Mathematics
 
-* Kaggle: https://kaggle.com/l1ghtsource
+* Kaggle: [@l1ghtsource](https://kaggle.com/l1ghtsource)
 * Telegram: [@polnostju](https://t.me/polnostju)
 * e-mail: lightsourceecruosthgil@gmail.com
 * CV: [current resume](https://drive.google.com/file/d/1CbJTHYA8oqZ6C03W1xmk0yX2djQuy-e4/view?usp=sharing)
