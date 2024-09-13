@@ -1,73 +1,42 @@
-<div id="header" align="center">
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhjbDJpYjVyODlzbWMzc2Fvb2dyMjl5dG8ydDg4Z2hkamhoYmswZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hi2kPofVMW70k/giphy.gif" width="30px"/>
-  </h1>
-  <h2>
-    Deep Learning, Machine Learning, Mathematics
-  </h2>
-</div>
+## Deep Learning & Machine Learning & Mathematics, Computer Science Student at NUST MISIS
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNnamFoYWwwa2p5Z2VqaXR4bmVwZ2k0dGxmMHhyaWJlcGF1bzNzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SnVZO1N0Wo6u4/giphy.gif" style="max-width: 120%; height: auto;"/>
-  <p></p>
-</div>
+* Kaggle: https://kaggle.com/l1ghtsource
+* Telegram: [@polnostju](https://t.me/polnostju)
+* e-mail: lightsourceecruosthgil@gmail.com
+* CV: [current resume](https://drive.google.com/file/d/1CbJTHYA8oqZ6C03W1xmk0yX2djQuy-e4/view?usp=sharing)
 
-<i>Currently</i>: machine learning and deep learning engineer, mathematician and sound engineer.
+Fields of Interests: Multimodal Neural Networks, Classic Machine Learning, Metric Learning, NLP
 
-*   🌍  I'm based in Moscow
-*   📄  Curriculum vitae: [poke](https://drive.google.com/file/d/1CbJTHYA8oqZ6C03W1xmk0yX2djQuy-e4/view?usp=sharing)
-*   ✉️  You can contact me at [lightsourceecruosthgil@gmail.com](mailto:lightsourceecruosthgil@gmail.com)
+## Pinned Projects: 
 
-<div align="center">
-  
-### Skills 
+### [Product cards matching. Ozon Tech E-CUP (2/110)](https://github.com/l1ghtsource/ozon-ecup-matching)
 
-![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=orange)
-![PyTorch](https://img.shields.io/badge/pytorch-%23000000?style=for-the-badge&logo=pytorch)
-![transformers](https://img.shields.io/badge/transformers-%23000000?style=for-the-badge&logo=transformers)
-![NumPy](https://img.shields.io/badge/numpy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-![Scipy](https://img.shields.io/badge/SciPy-%23000000.svg?style=for-the-badge&logo=scipy&logoColor=%white%27) 
-![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib)
-![OpenCV](https://img.shields.io/badge/opencv-%23000000?style=for-the-badge&logo=opencv)
-![YOLO](https://img.shields.io/badge/yolo-%23000000?style=for-the-badge&logo=yolo)
-![C++](https://img.shields.io/badge/c++-%23000000?style=for-the-badge&logo=c%2B%2B&logoColor=blue) 
-![CSS3](https://img.shields.io/badge/css-%23000000?style=for-the-badge&logo=css3&logoColor=blue)
-![HTML5](https://img.shields.io/badge/html-%23000000?style=for-the-badge&logo=html5)
-![LaTeX](https://img.shields.io/badge/latex-%23000000.svg?style=for-the-badge&logo=latex&logoColor=green) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=blue)
+A model was developed that determined by names, attributes and pictures whether two products were the same. This solution will help Ozon customers to improve the user experience, and companies to optimize resources and save on the purchase of server equipment.
 
-</div> 
+### [Classification of documents, attributes extraction. Gagarin Hack (2/60)](https://github.com/l1ghtsource/gagarin-hack-document-reader)
 
-<div align="center">
+The service, which allows, in API mode, classifies photo scans of automobile documents by their types (driver's license, vehicle registration certificate, vehicle registration certificate, passport of the Russian Federation), as well as the number of the sheet/side of the document, and extracts basic information/attributes from each document.
 
-### Hackatons
+### [Predicting tractor components state based on telemetry data. EESTech (2/30)](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting)
 
-</div> 
+The tractor telemetry data analysis system, which evaluates the correct operation of the tractor and its systems, and predicts their failure, analyzes the systems.
 
-| Hackathon                                                                                           | Place        | Task                                                                 | Stack                                                                                                  | Category                         |
-|-----------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------|
-| [**Gagarin Hack**](https://github.com/l1ghtsource/gagarin-hack-document-reader)                     | 2nd place    | Classification of documents based on photos, extraction of attributes | opencv, yolo, easyocr                                                                                   | CV                               |
-| [**EESTech Hack**](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting)                 | 2nd place    | Predicting tractor components state based on telemetry data           | catboost, sklearn, streamlit                                                                            | Classic ML                       |
-| [**Digital Breakthrough (UFD)**](https://github.com/l1ghtsource/mediawise-creative-filter)          | 3rd place    | Predict segment of advertising creative                               | whisper, bert, x-clip, llava, catboost, fastapi                                                         | Speech & Video                   |
-| [**MIPT Hack**](https://github.com/l1ghtsource/mipt-hackathon)                                      | 1st place    | Recognizing place on MIPT campus for a mobile robot                   | torch, opr, transformers, faiss                                                                         | Place Recognition, Metric Learning |
-| [**USPTO (Kaggle competition)**](https://github.com/l1ghtsource/ustpo-patent-query-generator)                                      | Bronze medal    | Generating Boolean search queries that effectively characterize collections of patent documents                   | whoosh, polars, annealing, genetic algorithm                                                                         | Global Search Optimization |
-| [**IT Purple Hack**](https://github.com/l1ghtsource/it-purple-hack-sber-case)                       | 4th place    | Forecasting banking client churn                                      | catboost, sklearn, imblearn, optuna                                                                     | Classic ML                       |
-| [**RedLab Hack**](https://github.com/l1ghtsource/redlab-timeseries-anomaly-detection)               | 4-5th place  | Detecting anomalies in a time series                                  | orion, adtk, sklearn, prophet, keras, streamlit                                                         | Classic ML, Timeseries            |
-| [**Tender Hack**](https://github.com/l1ghtsource/tender-hack-product-card-generator)                | 6th place    | Generating CTE names and characteristics                              | transformers, torch, catboost                                                                           | NLP                              |
-| [**LCT**](https://github.com/l1ghtsource/media-searcher)                                            | Participant  | Index and search videos based on media content                        | torch, whisper, clip4clip, easyocr, transformers, faiss, face_recognition                               | Video, Speech, CV                |
-| [**Rucode Start**](https://github.com/l1ghtsource/rucode-start-2024)                                | Finalist     | Disease prediction, segmentation of satellite images, prediction of hotel room cancellations | sklearn, catboost, imblearn, autogluon, bluecast, torch, albumentations, segmentation_models | Classic ML, CV                    |
-| [**Coderun 2 Season**](https://github.com/l1ghtsource/coderun-ml-2-season) | 20/647 (top 3%)  | Online trainer with a catalog of tasks for ML developers  | sklearn, scipy, numpy, torch, spacy | Algorithms, Classic ML, CV|                
-<div align="center">
-  
-### Socials
+### [Predicting the segment of advertising creative. Digital Breakthrough (UFD) (3/12)](https://github.com/l1ghtsource/mediawise-creative-filter)
 
-<p align="center">
-<a href="https://kaggle.com/l1ghtsource" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="l1ghtsource" height="30" width="40" /></a>
-<a href="https://vk.com/ecruosthgil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="l1ghtsource" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCUT6M4HZMA5osgXNf2_SiRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l1ghtsource" height="30" width="40" /></a>
-</p>
+A tool that analyzes brand creatives and, based on the content of audio/video files, determines segmentation – in which category to determine media pressure.
 
-</div> 
+### [Generating Boolean search queries that effectively characterize collections of patent documents. USPTO, Kaggle (Bronze medal)](https://github.com/l1ghtsource/ustpo-patent-query-generator)
+
+The goal of this competition is to generate Boolean search queries that effectively characterize collections of patent documents. You are challenged to create a query generation model that, given an input set of related patents, outputs a Boolean query that returns the same set of patent documents.
+
+### [Forecasting banking client churn. IT Purple Hack (4/50)](https://github.com/l1ghtsource/it-purple-hack-sber-case)
+
+A model that helps to predict the moment of a salary client's transfer to another bank by analyzing data on transactions, products used, mobile applications, terminals, etc.
+
+### [Media Searcher. LCT (Participant)](https://github.com/l1ghtsource/media-searcher)
+
+A service has been developed that allows indexing and searching videos based on media content. The service is able to process user requests, extract keywords from them and use them to search for relevant video files. The ability to quickly and efficiently find content of interest improves the user experience, helps to find new user interests and improve recommendations.
+
+### [Recognizing place on MIPT campus for a mobile robot. MIPT Hack (1/8)](https://github.com/l1ghtsource/mipt-hackathon)
+
+A service has been developed that allows indexing and searching videos based on media content. The service is able to process user requests, extract keywords from them and use them to search for relevant video files. The ability to quickly and efficiently find content of interest improves the user experience, helps to find new user interests and improve recommendations.
