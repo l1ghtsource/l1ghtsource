@@ -1,4 +1,4 @@
-## Deep Learning & Machine Learning & Mathematics, Computer Science Student at NUST MISIS
+## Computer Science Student at NUST MISIS: Deep Learning & Machine Learning & Mathematics
 
 * Kaggle: https://kaggle.com/l1ghtsource
 * Telegram: [@polnostju](https://t.me/polnostju)
