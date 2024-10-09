@@ -33,6 +33,12 @@ A tool that analyzes brand creatives and, based on the content of audio/video fi
 
 *Worked with*: whisper, bert, x-clip, llava, catboost, fastapi
 
+### [Lumbar Spine Degenerative Classification. RSNA, Kaggle (Bronze medal) [Medical CV]](https://github.com/l1ghtsource/rsna-lumbar-spine-degenerative-classification)
+
+The goal of this competition is to create models that can be used to aid in the detection and classification of degenerative spine conditions using lumbar spine MR images. Competitors will develop models that simulate a radiologist's performance in diagnosing spine conditions.
+
+*Worked with*: torch, torchio, open3d, timm_3d, spacecutter, yolo
+
 ### [Generating Boolean search queries for patents. USPTO, Kaggle (Bronze medal) [Optimization]](https://github.com/l1ghtsource/ustpo-patent-query-generator)
 
 The goal of this competition is to generate Boolean search queries that effectively characterize collections of patent documents. You are challenged to create a query generation model that, given an input set of related patents, outputs a Boolean query that returns the same set of patent documents.
