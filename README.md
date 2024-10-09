@@ -39,7 +39,7 @@ The goal of this competition is to create models that can be used to aid in the 
 
 *Worked with*: torch, torchio, open3d, timm_3d, spacecutter, yolo
 
-### [Generating Boolean search queries for patents. USPTO, Kaggle (Bronze medal) [Optimization]](https://github.com/l1ghtsource/ustpo-patent-query-generator)
+### [Generating Boolean search queries for patents. USPTO, Kaggle (Bronze medal) [Global Search Optimization]](https://github.com/l1ghtsource/ustpo-patent-query-generator)
 
 The goal of this competition is to generate Boolean search queries that effectively characterize collections of patent documents. You are challenged to create a query generation model that, given an input set of related patents, outputs a Boolean query that returns the same set of patent documents.
 
