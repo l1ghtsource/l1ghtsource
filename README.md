@@ -33,6 +33,12 @@ A tool that analyzes brand creatives and, based on the content of audio/video fi
 
 *Worked with*: whisper, bert, x-clip, llava, catboost, fastapi
 
+### [E-Commerce Feedback Classification (DLS) (3/90) [NLP]](https://github.com/l1ghtsource/ecom-tech-workshop)
+
+Service for multi-label classification of customer reviews in the field of e-commerce for the Samokat company.
+
+*Worked with*: transformers, peft, skmultilearn, streamlit
+
 ### [Lumbar Spine Degenerative Classification. RSNA, Kaggle (Bronze medal) [Medical CV]](https://github.com/l1ghtsource/rsna-lumbar-spine-degenerative-classification)
 
 The goal of this competition is to create models that can be used to aid in the detection and classification of degenerative spine conditions using lumbar spine MR images. Competitors will develop models that simulate a radiologist's performance in diagnosing spine conditions.
