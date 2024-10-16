@@ -33,7 +33,7 @@ A tool that analyzes brand creatives and, based on the content of audio/video fi
 
 *Worked with*: whisper, bert, x-clip, llava, catboost, fastapi
 
-### [E-Commerce Feedback Classification (DLS) (3/90) [NLP]](https://github.com/l1ghtsource/ecom-tech-workshop)
+### [E-Commerce Feedback Classification. Deep Learning School & ecom.tech (3/90) [NLP]](https://github.com/l1ghtsource/ecom-tech-workshop)
 
 Service for multi-label classification of customer reviews in the field of e-commerce for the Samokat company.
 
