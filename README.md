@@ -27,17 +27,17 @@ The tractor telemetry data analysis system, which evaluates the correct operatio
 
 *Worked with*: catboost, sklearn, streamlit
 
+### [E-Commerce Feedback Classification. Deep Learning School & ecom.tech (3/96) [NLP]](https://github.com/l1ghtsource/ecom-tech-workshop)
+
+Service for multi-label classification of customer reviews in the field of e-commerce for the Samokat company.
+
+*Worked with*: transformers, peft, skmultilearn, streamlit
+
 ### [Predicting the segment of advertising creative. Digital Breakthrough (UFD) (3/12) [Video & Speech]](https://github.com/l1ghtsource/mediawise-creative-filter)
 
 A tool that analyzes brand creatives and, based on the content of audio/video files, determines segmentation – in which category to determine media pressure.
 
 *Worked with*: whisper, bert, x-clip, llava, catboost, fastapi
-
-### [E-Commerce Feedback Classification. Deep Learning School & ecom.tech (3/90) [NLP]](https://github.com/l1ghtsource/ecom-tech-workshop)
-
-Service for multi-label classification of customer reviews in the field of e-commerce for the Samokat company.
-
-*Worked with*: transformers, peft, skmultilearn, streamlit
 
 ### [Lumbar Spine Degenerative Classification. RSNA, Kaggle (Bronze medal) [Medical CV]](https://github.com/l1ghtsource/rsna-lumbar-spine-degenerative-classification)
 
