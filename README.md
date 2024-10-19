@@ -9,7 +9,7 @@ Fields of Interests: Multimodal Neural Networks, Classic Machine Learning, Metri
 
 ## Pinned Projects: 
 
-### [Rucode Final 2024. Task C (1/22) [NLP]](https://github.com/l1ghtsource/rucode-final-2024) 
+### [Classification of movies based on text data. Rucode Final 2024 (1/22) [NLP]](https://github.com/l1ghtsource/rucode-final-2024) 
 
 An artificial intelligence algorithm that is a digital detective, capable of reconstructing its genres based on just one description of a film.
 
