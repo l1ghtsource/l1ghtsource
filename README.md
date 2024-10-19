@@ -13,7 +13,7 @@ Fields of Interests: Multimodal Neural Networks, Classic Machine Learning, Metri
 
 An artificial intelligence algorithm that is a digital detective, capable of reconstructing its genres based on just one description of a film. The model will need to not just mechanically classify data, but also understand the subtle nuances and contexts that distinguish thriller from drama, and comedy from fantasy.
 
-*Worked with*: transformers, peft, skmultilearn, streamlit
+*Worked with*: transformers, peft, skmultilearn, torch
 
 ### [Product cards matching. Ozon Tech E-CUP (2/110) [Classic ML & NLP]](https://github.com/l1ghtsource/ozon-ecup-matching) 
 
@@ -37,7 +37,7 @@ The tractor telemetry data analysis system, which evaluates the correct operatio
 
 Service for multi-label classification of customer reviews in the field of e-commerce for the Samokat company.
 
-*Worked with*: transformers, peft, skmultilearn, streamlit
+*Worked with*: transformers, peft, skmultilearn, torch, streamlit
 
 ### [Predicting the segment of advertising creative. Digital Breakthrough (UFD) (3/12) [Video & Speech]](https://github.com/l1ghtsource/mediawise-creative-filter)
 
