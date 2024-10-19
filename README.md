@@ -9,6 +9,12 @@ Fields of Interests: Multimodal Neural Networks, Classic Machine Learning, Metri
 
 ## Pinned Projects: 
 
+### [Rucode Final 2024. Task C (1/22) [NLP]](https://github.com/l1ghtsource/rucode-final-2024) 
+
+An artificial intelligence algorithm that is a digital detective, capable of reconstructing its genres based on just one description of a film.
+
+*Worked with*: transformers, peft, skmultilearn, streamlit
+
 ### [Product cards matching. Ozon Tech E-CUP (2/110) [Classic ML & NLP]](https://github.com/l1ghtsource/ozon-ecup-matching) 
 
 A model was developed that determined by names, attributes and pictures whether two products were the same. This solution will help Ozon customers to improve the user experience, and companies to optimize resources and save on the purchase of server equipment.
