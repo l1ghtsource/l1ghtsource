@@ -11,7 +11,7 @@ Fields of Interests: Multimodal Neural Networks, Classic Machine Learning, Metri
 
 ### [Classification of movies based on text data. Rucode Final 2024 (1/22) [NLP]](https://github.com/l1ghtsource/rucode-final-2024) 
 
-An artificial intelligence algorithm that is a digital detective, capable of reconstructing its genres based on just one description of a film.
+An artificial intelligence algorithm that is a digital detective, capable of reconstructing its genres based on just one description of a film. The model will need to not just mechanically classify data, but also understand the subtle nuances and contexts that distinguish thriller from drama, and comedy from fantasy.
 
 *Worked with*: transformers, peft, skmultilearn, streamlit
 
