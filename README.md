@@ -21,7 +21,7 @@ A model was developed that determined by names, attributes and pictures whether 
 
 *Worked with*: sklearn, transformers, torch, bert, jellyfish, textdistance, rapidfuzz, catboost
 
-### [Classification of documents, attributes extraction. Gagarin Hack (2/60) [CV]](https://github.com/l1ghtsource/gagarin-hack-document-reader)
+### [Classification of documents, attributes extraction. Gagarin Hack (2/60) [CV]](https://github.com/MilkyWayAlm/gagarin-hack-document-reader)
 
 The service, which allows, in API mode, classifies photo scans of automobile documents by their types (driver's license, vehicle registration certificate, vehicle registration certificate, passport of the Russian Federation), as well as the number of the sheet/side of the document, and extracts basic information/attributes from each document.
 
