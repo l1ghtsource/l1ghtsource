@@ -9,80 +9,18 @@ Fields of Interests: Multimodal Neural Networks, Classic Machine Learning, Metri
 
 ## Pinned Projects: 
 
-### [Classification of movies based on text data. Rucode Final 2024 (1/22) [NLP]](https://github.com/l1ghtsource/rucode-final-2024) 
-
-An artificial intelligence algorithm that is a digital detective, capable of reconstructing its genres based on just one description of a film. The model will need to not just mechanically classify data, but also understand the subtle nuances and contexts that distinguish thriller from drama, and comedy from fantasy.
-
-*Worked with*: transformers, peft, skmultilearn, torch
-
-### [Assessing the level of expertise based on a resume. FIC Hackathon (1/12) [NLP]](https://github.com/l1ghtsource/fic-sense-case) 
-
-The model for assessing the level of expertise of a candidate based on a resume takes into account many different signs both from the resume and external information about the company. Parsers of various sources were also made, and a full-fledged web service was created.
-
-*Worked with*: transformers, peft, torch, streamlit, fastapi
-
-### [Product cards matching. Ozon Tech E-CUP (2/110) [Classic ML & NLP]](https://github.com/l1ghtsource/ozon-ecup-matching) 
-
-A model was developed that determined by names, attributes and pictures whether two products were the same. This solution will help Ozon customers to improve the user experience, and companies to optimize resources and save on the purchase of server equipment.
-
-*Worked with*: sklearn, transformers, torch, bert, jellyfish, textdistance, rapidfuzz, catboost
-
-### [Classification of documents, attributes extraction. Gagarin Hack (2/60) [CV]](https://github.com/MilkyWayAlm/gagarin-hack-document-reader)
-
-The service, which allows, in API mode, classifies photo scans of automobile documents by their types (driver's license, vehicle registration certificate, vehicle registration certificate, passport of the Russian Federation), as well as the number of the sheet/side of the document, and extracts basic information/attributes from each document.
-
-*Worked with*: opencv, yolo, easyocr
-
-### [Predicting tractor components state based on telemetry data. EESTech (2/30) [Classic ML]](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting)
-
-The tractor telemetry data analysis system, which evaluates the correct operation of the tractor and its systems, and predicts their failure, analyzes the systems.
-
-*Worked with*: catboost, sklearn, streamlit
-
-### [E-Commerce Feedback Classification. Deep Learning School & ecom.tech (3/96) [NLP]](https://github.com/l1ghtsource/ecom-tech-workshop)
-
-Service for multi-label classification of customer reviews in the field of e-commerce for the Samokat company.
-
-*Worked with*: transformers, peft, skmultilearn, torch, streamlit
-
-### [Knowledge Window - Digital Knowledge Assistant (3/57) [RAG]](https://github.com/l1ghtsource/impulse-t1)
-
-A platform that allows users to develop windows for interaction with the assistant based on their own knowledge base. Supports multimodal data and also works with external sources.
-
-*Worked with*: transformers, langchain, torch, whisper
-
-### [Predicting the segment of advertising creative. Digital Breakthrough (UFD) (3/12) [Video & Speech]](https://github.com/l1ghtsource/mediawise-creative-filter)
-
-A tool that analyzes brand creatives and, based on the content of audio/video files, determines segmentation – in which category to determine media pressure.
-
-*Worked with*: whisper, bert, x-clip, llava, catboost, fastapi
-
-### [Lumbar Spine Degenerative Classification. RSNA, Kaggle (Bronze medal) [Medical CV]](https://github.com/l1ghtsource/rsna-lumbar-spine-degenerative-classification)
-
-The goal of this competition is to create models that can be used to aid in the detection and classification of degenerative spine conditions using lumbar spine MR images. Competitors will develop models that simulate a radiologist's performance in diagnosing spine conditions.
-
-*Worked with*: torch, torchio, open3d, timm_3d, spacecutter, yolo
-
-### [Generating Boolean search queries for patents. USPTO, Kaggle (Bronze medal) [Global Search Optimization]](https://github.com/l1ghtsource/ustpo-patent-query-generator)
-
-The goal of this competition is to generate Boolean search queries that effectively characterize collections of patent documents. You are challenged to create a query generation model that, given an input set of related patents, outputs a Boolean query that returns the same set of patent documents.
-
-*Worked with*: whoosh, polars, annealing and genetic algorithms
-
-### [Forecasting banking client churn. IT Purple Hack (4/50) [Classic ML]](https://github.com/l1ghtsource/it-purple-hack-sber-case)
-
-A model that helps to predict the moment of a salary client's transfer to another bank by analyzing data on transactions, products used, mobile applications, terminals, etc.
-
-*Worked with*: catboost, sklearn, imblearn, optuna
-
-### [Media Searcher. LCT (Participant) [Video & Speech & CV & NLP]](https://github.com/l1ghtsource/media-searcher) 
-
-A service has been developed that allows indexing and searching videos based on media content. The service is able to process user requests, extract keywords from them and use them to search for relevant video files. The ability to quickly and efficiently find content of interest improves the user experience, helps to find new user interests and improve recommendations.
-
-*Worked with*: torch, whisper, clip4clip, easyocr, transformers, faiss, face_recognition
-
-### [Recognizing place on MIPT campus for a mobile robot. MIPT Hack (1/8) [Metric Learning]](https://github.com/l1ghtsource/mipt-hackathon) 
-
-A service has been developed that allows indexing and searching videos based on media content. The service is able to process user requests, extract keywords from them and use them to search for relevant video files. The ability to quickly and efficiently find content of interest improves the user experience, helps to find new user interests and improve recommendations.
-
-*Worked with*: torch, opr, transformers, faiss
+| **Project Name**                                                                                                                                         | **Description**                                                                                                                                                                                                                                                                                                                                                                                         | **Technologies**                                                                                           | **Ranking**            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------|
+| [Classification of Movies Based on Text Data (RuCode Final 2024)](https://github.com/l1ghtsource/rucode-final-2024)                                      | AI algorithm that reconstructs movie genres based on descriptions, understanding subtle nuances to differentiate genres like thriller, drama, comedy, and fantasy.                                                                                                                                                                                                 | transformers, peft, skmultilearn, torch                                                                   | 1/22                  |
+| [Assessing Expertise Level Based on Resume (FIC Hackathon)](https://github.com/l1ghtsource/fic-sense-case)                                               | Model evaluates candidate expertise from resumes and external company data. Includes parsers and a full-fledged web service.                                                                                                                                                                                                                                      | transformers, peft, torch, streamlit, fastapi                                                             | 1/12                  |
+| [Product Cards Matching (Ozon Tech E-CUP)](https://github.com/l1ghtsource/ozon-ecup-matching)                                                            | Model identifies whether two products are the same based on names, attributes, and pictures, optimizing resources and user experience.                                                                                                                                                                                                                           | sklearn, transformers, torch, bert, jellyfish, textdistance, rapidfuzz, catboost                          | 2/110                 |
+| [Document Classification and Attribute Extraction (Gagarin Hack)](https://github.com/MilkyWayAlm/gagarin-hack-document-reader)                           | API-based service classifies document scans (e.g., licenses, certificates) by type and extracts key attributes.                                                                                                                                                                                                                                                  | opencv, yolo, easyocr                                                                                     | 2/60                  |
+| [Predicting Tractor Component State Based on Telemetry Data (EESTech)](https://github.com/l1ghtsource/eestech-hack-tractor-forecasting)                  | System evaluates tractor systems' performance and predicts failures using telemetry data.                                                                                                                                                                                                                                                                        | catboost, sklearn, streamlit                                                                              | 2/30                  |
+| [E-Commerce Feedback Classification (Deep Learning School & ecom.tech)](https://github.com/l1ghtsource/ecom-tech-workshop)                               | Multi-label classification of e-commerce customer reviews for Samokat.                                                                                                                                                                                                                                                                                          | transformers, peft, skmultilearn, torch, streamlit                                                        | 3/96                  |
+| [Knowledge Window – Digital Knowledge Assistant (Impulse Hack)](https://github.com/l1ghtsource/impulse-t1)                                               | Platform for developing custom assistant windows using multimodal data and external sources.                                                                                                                                                                                                                                                                     | transformers, langchain, torch, whisper                                                                   | 3/57                  |
+| [Predicting Advertising Creative Segments (Digital Breakthrough)](https://github.com/l1ghtsource/mediawise-creative-filter)                              | Tool analyzes brand creatives and segments audio/video files for media pressure categorization.                                                                                                                                                                                                                                                                  | whisper, bert, x-clip, llava, catboost, fastapi                                                           | 3/12                  |
+| [Lumbar Spine Degenerative Classification (RSNA)](https://github.com/l1ghtsource/rsna-lumbar-spine-degenerative-classification)                          | Models assist radiologists in detecting and classifying degenerative spine conditions from lumbar spine MR images.                                                                                                                                                                                                                                               | torch, torchio, open3d, timm_3d, spacecutter, yolo                                                        | Kaggle Bronze Medal   |
+| [Generating Boolean Search Queries for Patents (USPTO)](https://github.com/l1ghtsource/ustpo-patent-query-generator)                                     | Model generates Boolean queries to characterize patent document collections effectively.                                                                                                                                                                                                                                                                         | whoosh, polars, annealing and genetic algorithms                                                          | Kaggle Bronze Medal   |
+| [Forecasting Banking Client Churn (IT Purple Hack)](https://github.com/l1ghtsource/it-purple-hack-sber-case)                                             | Predicts when salary clients transfer to another bank using transaction, product, and application data.                                                                                                                                                                                                                                                          | catboost, sklearn, imblearn, optuna                                                                       | 4/50                  |
+| [Media Searcher (LCT)](https://github.com/l1ghtsource/media-searcher)                                                                                    | Service indexes and searches videos by media content, extracts keywords, and improves user recommendations.                                                                                                                                                                                                                                                     | torch, whisper, clip4clip, easyocr, transformers, faiss, face_recognition                                 | Participant           |
+| [Recognizing MIPT Campus Locations for a Mobile Robot (MIPT Hack)](https://github.com/l1ghtsource/mipt-hackathon)                                         | Service indexes and searches media content for mobile robots to recognize campus locations.                                                                                                                                                                                                                                                                      | torch, opr, transformers, faiss                                                                           | 1/8                   |
