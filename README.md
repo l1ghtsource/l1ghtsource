@@ -15,6 +15,12 @@ An artificial intelligence algorithm that is a digital detective, capable of rec
 
 *Worked with*: transformers, peft, skmultilearn, torch
 
+### [Assessing the level of expertise based on a resume. FIC Hackathon (1/12) [NLP]](https://github.com/l1ghtsource/fic-sense-case) 
+
+The model for assessing the level of expertise of a candidate based on a resume takes into account many different signs both from the resume and external information about the company. Parsers of various sources were also made, and a full-fledged web service was created.
+
+*Worked with*: transformers, peft, torch, streamlit, fastapi
+
 ### [Product cards matching. Ozon Tech E-CUP (2/110) [Classic ML & NLP]](https://github.com/l1ghtsource/ozon-ecup-matching) 
 
 A model was developed that determined by names, attributes and pictures whether two products were the same. This solution will help Ozon customers to improve the user experience, and companies to optimize resources and save on the purchase of server equipment.
@@ -38,6 +44,12 @@ The tractor telemetry data analysis system, which evaluates the correct operatio
 Service for multi-label classification of customer reviews in the field of e-commerce for the Samokat company.
 
 *Worked with*: transformers, peft, skmultilearn, torch, streamlit
+
+### [Knowledge Window – Digital Knowledge Assistant (3/57) [RAG]]([https://github.com/l1ghtsource/ecom-tech-workshop](https://github.com/l1ghtsource/impulse-t1))
+
+A platform that allows users to develop windows for interaction with the assistant based on their own knowledge base. Supports multimodal data and also works with external sources.
+
+*Worked with*: transformers, langchain, torch, whisper
 
 ### [Predicting the segment of advertising creative. Digital Breakthrough (UFD) (3/12) [Video & Speech]](https://github.com/l1ghtsource/mediawise-creative-filter)
 
