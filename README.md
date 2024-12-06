@@ -45,7 +45,7 @@ Service for multi-label classification of customer reviews in the field of e-com
 
 *Worked with*: transformers, peft, skmultilearn, torch, streamlit
 
-### [Knowledge Window – Digital Knowledge Assistant (3/57) [RAG]]([https://github.com/l1ghtsource/ecom-tech-workshop](https://github.com/l1ghtsource/impulse-t1))
+### [Knowledge Window, Digital Knowledge Assistant (3/57) [RAG]]([https://github.com/l1ghtsource/ecom-tech-workshop](https://github.com/l1ghtsource/impulse-t1))
 
 A platform that allows users to develop windows for interaction with the assistant based on their own knowledge base. Supports multimodal data and also works with external sources.
 
