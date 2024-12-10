@@ -3,7 +3,7 @@
 * Kaggle: https://kaggle.com/l1ghtsource
 * Telegram: [@polnostju](https://t.me/polnostju)
 * e-mail: lightsourceecruosthgil@gmail.com
-* CV: [current resume](https://drive.google.com/file/d/1fjNCVKNBRDQIDytfLA5yzFWPtl3Naqd3/view?usp=sharing)
+* CV: [current resume](https://drive.google.com/file/d/1ZJqJO2NxAkB03dnebkKtr9R6eGsWtXuG/view?usp=sharing)
 
 Fields of Interests: Multimodal Neural Networks, Classic Machine Learning, Metric Learning, NLP
 
