@@ -3,7 +3,7 @@
 * Kaggle: https://kaggle.com/l1ghtsource (Competition Expert, top 0.45% in the World Ranking)
 * Telegram: [@polnostju](https://t.me/polnostju)
 * e-mail: lightsourceecruosthgil@gmail.com
-* CV: [current resume](https://drive.google.com/file/d/1v1j0_I_nPxxYgDOheF7GmF5WgGZpgu2a/view?usp=sharing)
+* CV: [current resume](https://drive.google.com/file/d/1XHQ-s9nMjh90Q7jW3IYPvhSKVjzUZqhZ/view?usp=sharing)
 
 Fields of Interests: Classic Machine Learning, Multimodal Neural Networks
 
