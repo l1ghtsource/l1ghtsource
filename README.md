@@ -1,6 +1,6 @@
 ## Computer Science Student at NUST MISIS: Deep Learning & Machine Learning & Mathematics
 
-* Kaggle: https://kaggle.com/l1ghtsource (Competition Expert, top 0.45% in the World Ranking)
+* Kaggle: https://kaggle.com/l1ghtsource (Competition Expert, top 0.39% in the World Ranking)
 * Telegram: [@polnostju](https://t.me/polnostju)
 * e-mail: lightsourceecruosthgil@gmail.com
 * CV: [current resume](https://drive.google.com/file/d/1XHQ-s9nMjh90Q7jW3IYPvhSKVjzUZqhZ/view?usp=sharing)
